@@ -3,7 +3,7 @@ entries:
   meshery:
   - apiVersion: v2
     appVersion: stable-latest
-    created: "2021-04-05T09:06:37.861243491Z"
+    created: "2021-04-05T09:40:51.28237829Z"
     dependencies:
     - condition: meshery-istio.enabled
       name: meshery-istio
@@ -30,7 +30,7 @@ entries:
       repository: ""
       version: 1.0.1
     description: Meshery chart for deploying Meshery and Meshery's adapters.
-    digest: e6349aa02457ec6bc67f48f3e1ba1fbf0ca7fecccff974cfacd91579c0bd4387
+    digest: a6ed8c69c5ff5d1e7a7263a85664fea2ef5a81d5114f0da82a713e62796e2c0c
     icon: https://meshery.io/images/logos/meshery-logo.png
     keywords:
     - meshery
@@ -50,6 +50,6 @@ entries:
     name: meshery
     type: application
     urls:
-    - https://github.com/Aisuko/charts-release/releases/download/meshery-2.1.51/meshery-2.1.51.tgz
-    version: 2.1.51
-generated: "2021-04-05T09:06:37.861248991Z"
+    - https://github.com/Aisuko/charts-release/releases/download/meshery-2.1.52/meshery-2.1.52.tgz
+    version: 2.1.52
+generated: "2021-04-05T09:40:51.28238519Z"
